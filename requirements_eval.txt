@@ -1,0 +1,10 @@
+hdf5storage==0.1.18
+jiwer==3.0.1
+numpy==1.23.4
+opencv_python_headless==4.7.0.68
+Pillow==9.4.0
+pytesseract==0.3.10
+python_Levenshtein
+scikit-image
+torch==1.13.0
+tqdm==4.64.1
