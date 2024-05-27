@@ -4,6 +4,7 @@
 
 This repository contains the code for the "UVDoc: Neural Grid-based Document Unwarping" paper.
 If you are looking for (more information about) the UVDoc dataset, you can find it [here](https://github.com/tanguymagne/UVDoc-Dataset).
+The full UVDoc paper can be found [here](https://igl.ethz.ch/projects/uvdoc/).
 
 Three requirements files are provided for the three use cases made available in this repo. 
 Each use case is detailed below.
